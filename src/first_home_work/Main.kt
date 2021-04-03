@@ -1,3 +1,5 @@
+package first_home_work
+
 fun main() {
     println(isComposite(1))
     println(isComposite(2))
